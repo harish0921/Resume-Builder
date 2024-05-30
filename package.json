@@ -1,0 +1,33 @@
+{
+  "name": "loginform",
+  "version": "1.0.0",
+  "description": "Here's a brief description you could use for your resume builder project:",
+  "main": "dle data storage and retrieval, and it utilizes HTML, CSS, and JavaScript for the frontend. Our goal is to provide a user-friendly platform that empowers individuals to create impactful resumes that stand out to potential employers.\"",
+  "whomonugiri": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harish0921/RESUME-BULIDER.git"
+  },
+  "keywords": [
+    "resume-builder",
+    "web-application",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "harish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harish0921/RESUME-BULIDER/issues"
+  },
+  "homepage": "https://github.com/harish0921/RESUME-BULIDER#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5"
+  }
+}
