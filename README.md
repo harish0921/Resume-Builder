@@ -112,8 +112,8 @@ This project is licensed under the [MIT License](LICENSE).
 ### 📧 Contact  
 For any queries or support, feel free to reach out to:  
 **Your Name**  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- GitHub: [your-username](https://github.com/your-username)  
+- Email: [harish.12.21.04@gmail.com](mailto:your.email@example.com)  
+- GitHub: [harish0921](https://github.com/your-username)  
 
 ---
 
