@@ -56,7 +56,7 @@ Resume-Builder/
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/your-username/resume-builder.git  
+   git clone https://github.com/harish0921/resume-builder.git  
    cd resume-builder  
    ```  
 
